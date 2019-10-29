@@ -70,7 +70,7 @@ const styles = StyleSheet.create({
     paddingBottom: 5,
     paddingTop:5,
     color:'white',
-    marginRight: 120,
+    marginRight: 165,
     backgroundColor: 'green',
     fontWeight: 'bold',
     borderRadius: 7
@@ -82,7 +82,7 @@ const styles = StyleSheet.create({
     paddingBottom: 5,
     paddingTop:5,
     color:'white',
-    marginTop:500,
+    marginTop:650,
     marginRight: 20,
     backgroundColor: 'green',
     fontWeight: 'bold',
@@ -102,7 +102,7 @@ const styles = StyleSheet.create({
     height:25,
   },
   imagemenu: {
-    marginRight:50,
+    marginRight:60,
     width:20,
     height:20,
   },
@@ -117,7 +117,7 @@ const styles = StyleSheet.create({
     paddingLeft: 50,
     paddingRight: 50,
     paddingBottom: 2,
-    paddingTop:2
+    paddingTop:5
     
   },
   test: {
